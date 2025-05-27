@@ -1,0 +1,6 @@
+run: pip install -r requirments.txt
+
+
+
+    print("Aktualnie Twój Zajebisty Bot Evans Cars Zaczął Zapierdalać Jak Twoi Pracownicy na Duty.")
+    await client.change_presence(activity=discord.Game(name="Evans Cars - Vibe Role Play"))
