@@ -102,4 +102,4 @@ async def on_command_error(ctx, error):
         await ctx.send(f"Nie masz uprawnień do użycia tej komendy. Wymagana rola: {error.missing_role}")
         await ctx.message.delete()
     raise error # Podnieś inne błędy, aby można je było zobaczyć
-client.run("MTM2Njg3ODM0ODU4ODA5MzYxMg.GI2zYm.DmcEPdxIKrzdd4VVFYItFQI90ESB-fU_MBQMno")
+client.run("MTM2Njg3ODM0ODU4ODA5MzYxMg.GV621q.6SNBLl2QWHyxbgaxjjrAIIKRi33ZTDgKXCyIl4")
